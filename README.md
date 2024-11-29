@@ -11,11 +11,11 @@ This repository stores the details of the paper "Towards the Analysis and Implem
 
 ## RQ2_Automatic_opti
 
-- This folder contains the code of RQ2 focuses on exploring methods to reduce human intervention in prompt optimization.
+- This folder contains the code of RQ2, which focuses on exploring methods to reduce human intervention in prompt optimization.
 
 ## RQ3_Evaluation
 
-- This folder contains the results of RQ3, and the cases analiysis in ccase study.
+- This folder contains the results of RQ3, and the examples analysis in the case study.
 
 ### Dependency
 - pip install torch
